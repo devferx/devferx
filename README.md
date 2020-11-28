@@ -23,6 +23,34 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
+### Send me a message!
+<p>
+  <a href="https://www.youtube.com/channel/UCJhAc0msUlDXLrbGpMBriqA">
+  <img
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://twitter.com/devferx">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.instagram.com/ferkki2/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.linkedin.com/in/devferx/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+</p>
+
 👨‍💻 Full Stack Developer
 
 💛 JavaScript Lover
