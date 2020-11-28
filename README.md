@@ -51,8 +51,9 @@
 </a>
 </p>
 
-👨‍💻 Full Stack Developer
+---
 
-💛 JavaScript Lover
+### Github Stats
 
-📓 I like to write for my blog
+![github stats](https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=buefy)
+
