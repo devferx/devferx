@@ -25,12 +25,6 @@
 
 ### Send me a message!
 <p>
-  <a href="https://www.youtube.com/channel/UCJhAc0msUlDXLrbGpMBriqA">
-  <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a>
 <a href="https://twitter.com/devferx">
   <img
     alt="Twitter"
@@ -47,6 +41,12 @@
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.youtube.com/channel/UCJhAc0msUlDXLrbGpMBriqA">
+  <img
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
   />
 </a>
 </p>
