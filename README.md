@@ -1,6 +1,6 @@
 # Hi there i am Fer! 👋
-![Image](https://i.imgur.com/CFWxKKb.png)
-
+<!-- ![Image](https://i.imgur.com/CFWxKKb.png) -->
+![github stats](https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=buefy)
 
 ### What do I do?
 <p>
@@ -53,7 +53,5 @@
 
 ---
 
-### Github Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=buefy)
+<!-- ### Github Stats -->
 
