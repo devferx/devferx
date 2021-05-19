@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there i am Fer! 👋 </h1>
 <!-- ![Image](https://i.imgur.com/CFWxKKb.png) -->
-<img src="https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=synthwave" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=radical" alt="github stats" />
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=buefy) -->
 
 ### What do I do?
