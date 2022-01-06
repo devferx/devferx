@@ -66,3 +66,7 @@
 - [CSS + React = Styled Components](https://devferx-blog.netlify.app/css+react-styled-components)
 - [Como Desplegar tu SPA de react a github pages](https://devferx-blog.netlify.app/como-desplegar-tu-spa-de-react-a-github-pages)
 - [De Web a Flutter](https://devferx-blog.netlify.app/de-web-a-flutter)
+
+<div align="center">
+  <img src="https://github.com/devferx/devferx/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
