@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center"> Hi there i am Fer! 👋 </h1>
   <!-- ![Image](https://i.imgur.com/CFWxKKb.png) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=radical" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
+  <img height="219em" src="https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=radical" alt="github stats" />
+  <img height="219em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
   <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=buefy) -->
 </div>
 
