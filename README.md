@@ -28,6 +28,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
+<!--
 ### Send me a message!
 <p>
 <a href="https://twitter.com/devferx">
@@ -55,6 +56,7 @@
   />
 </a>
 </p>
+-->
 
 ---
 
