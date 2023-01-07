@@ -67,7 +67,7 @@
 - [Flutter para JavaScript Devs](https://devferx-blog.netlify.app/flutter-para-JavaScript-Devs)
 - [CSS + React = Styled Components](https://devferx-blog.netlify.app/css+react-styled-components)
 - [Como Desplegar tu SPA de react a github pages](https://devferx-blog.netlify.app/como-desplegar-tu-spa-de-react-a-github-pages)
-- [De Web a Flutter](https://devferx-blog.netlify.app/de-web-a-flutter)
+<!-- - [De Web a Flutter](https://devferx-blog.netlify.app/de-web-a-flutter) -->
 
 <!--
 ### Watch my contribution graph get eaten by the snake 🐍
