@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Hi there i am Fer! 👋 </h1>
+  <h1 align="center"> Hi there I'm Fer! 👋 </h1>
   <!-- ![Image](https://i.imgur.com/CFWxKKb.png) -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=devferx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,6 +11,24 @@
   <!-- <img[](url) height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devferx&layout=compact&langs_count=7&theme=radical"/> -->
   <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=devferx&count_private=true&show_icons=true&theme=buefy) -->
 </div>
+
+## About me
+
+🚀 Frontend Developer at [Digital Harbor](https://www.digitalharbor.com)  
+
+💛 Lead Organizer at [JS Bolivia](https://www.instagram.com/javascript.bolivia/)
+
+👨‍🔬 Passionate about Data Science & AI
+
+👨‍🎓 BSc. in Computer Science (UMSS)
+
+### 🌱 Currently exploring
+- Web performance & scalability
+- Enhancing UI/UX through frontend development
+- Community building & tech education  
+
+✨ Fun fact: I enjoy sharing knowledge through talks and contributing to open-source & student communities
+
 
 ## What do I do?
 ### Languages
